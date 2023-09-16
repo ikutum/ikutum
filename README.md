@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @ikutum
+Welcome 👋 ,I'm Kalsoom Jan
+
 - 👀 I’m interested in developing new skills
 - 🌱 I’m currently learning backend web development
 - 💞️ I’m looking to collaborate on ;
@@ -14,5 +15,7 @@
 
 🔧  IDE's:  Visual Studio Code Sublime Text
 
+
 - 📫 Connect with me:
+ 
 linkedin.com/in/kalsoom-jan-ba843a287
